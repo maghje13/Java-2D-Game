@@ -26,5 +26,5 @@ chmod +x ./gradlew
 In ```build/libs/``` you can find the ```2DCoinCollectingGame-1.0.jar``` file.
 Put this wherever you want, then run:
 ```
-java - jar 2DCoinCollectingGame-1.0.jar
+java -jar 2DCoinCollectingGame-1.0.jar
 ```
